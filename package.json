@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "praneta",
+  "license": "ISC",
+  "description": "test",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+ 
+}
